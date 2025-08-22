@@ -9,5 +9,7 @@ The goal is to develop an AI assistant app that operates seamlessly offline, cap
 
 ### 22.08.2025
 - [ ] I want to add a screenshot feature that works similar to the circle to search feature on android devices
-- [ ] As of right now the code calls the LLM when I send my prompt and it runs ollama and generates a response and then closes. I want to add a feature that allows the bot to understand context.
-- [ ] I want to create an AI music generator which which generates MIDI that gets played back with a soundfont.
+- [ ] As of right now the code calls the LLM when I send my prompt and it runs ollama and generates a response and then closes. I want to add a feature that allows gemma to understand context.
+- [ ] I want to test my app and see how much it can do with analysising text and solving math equations using the screenshot feature.
+
+Today, I enhanced my AI assistant WPF application by implementing a screenshot feature inspired by Android’s Circle to Search. This allows users to select a screen region for image analysis by the Gemma3:4b LLM, integrated via the Ollama API. The feature captures the selected area, saves it as a PNG, and sends it to the AI for processing, displaying results in a streaming chat bubble. I tested the functionality with basic image analysis queries to ensure accuracy.
