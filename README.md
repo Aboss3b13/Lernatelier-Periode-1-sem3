@@ -19,3 +19,5 @@ Today, I enhanced my AI assistant WPF application by implementing a screenshot f
 - [ ] I want to create a feature that takes a screenshot of the whole screen without the AI assistant App being in it.
 - [ ] I want to meke it similar to the live screenshare feature that gemini offres.
 - [ ] I want to test other models
+
+Today, I worked on enhancing my AI assistant application. I focused on developing a feature to capture full-screen screenshots while ensuring the app window is excluded, inspired by Gemini's live screenshare functionality. I also explored integrating and testing other AI models to expand the app's capabilities.
