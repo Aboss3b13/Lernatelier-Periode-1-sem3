@@ -25,4 +25,4 @@ Today, I worked on enhancing my AI assistant application. I focused on developin
 ### 29.08.2025
 - [ ] I want to update the design of the WPF application. better colors etc.
 - [ ] I want to make it so that when the LLM is generating I should see it generating on the App real time rather than later.
-- [ ] In the holidays I created many websites, such as a quiz generator and a toke taking app with AI capabilities aswell as a graph generator. I want to find a commen theme and color pallete that looks proffesional for advertisment for future internships.
+- [ ] In the holidays I created many websites, such as a portfolio, a quiz generator, a toke taking app with AI capabilities aswell as a graph generator. I want to find a commen theme and color pallete that looks proffesional for advertisment for future internships.
