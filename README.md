@@ -26,3 +26,5 @@ Today, I worked on enhancing my AI assistant application. I focused on developin
 - [ ] I want to update the design of the WPF application. better colors etc.
 - [ ] I want to make it so that when the LLM is generating I should see it generating on the App real time rather than later.
 - [ ] In the holidays I created many websites, such as a portfolio, a quiz generator, a toke taking app with AI capabilities aswell as a graph generator. I want to find a commen theme and color pallete that looks proffesional for advertisment for future internships.
+
+Today I focused on improving my WPF application by planning to update its design with better colors and a more professional look. I also want to enhance the user experience by making the LLM’s responses appear in real time instead of all at once. Reflecting on the holidays, I realized I created several websites, including a portfolio, a quiz generator, a note-taking app with AI features, and a graph generator. I found a common theme and color palette to unify these projects, making them look polished and suitable for showcasing in future internship applications.
