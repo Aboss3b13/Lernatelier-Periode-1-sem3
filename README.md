@@ -1,6 +1,12 @@
 # Lernatelier-Periode-1-sem3
 
 
+### 12.09.2025
+- [ ] I want to create a web game that simulates online pokemon battles
+- [ ] I will start with the basic design
+- [ ] implement basic authentication
+
+
 ### 05.09.2025
 - [ ] I want to update the design of the WPF application. better colors etc.
 - [ ] I want to make it so that when the LLM is generating I should see it generating on the App real time rather than later.
