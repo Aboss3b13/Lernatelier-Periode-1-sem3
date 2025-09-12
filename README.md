@@ -6,6 +6,8 @@
 - [ ] I will start with the basic design
 - [ ] implement basic authentication
 
+Today I started a new project. I strarted to create a pokemon web app game. I want it to be a multiplayer pokemon battle game where you can log in and then create a battle room which your oppenment can join in the lobby. As of right now I can register/login and I created a basic design. I started to program the game logic.
+
 
 ### 05.09.2025
 - [ ] I want to update the design of the WPF application. better colors etc.
