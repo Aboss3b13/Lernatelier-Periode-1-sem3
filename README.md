@@ -1,6 +1,13 @@
 # Lernatelier-Periode-1-sem3
 
 
+### 19.09.2025
+- [ ] I want to continue on the said game. I will start by looking at what I have scomplished so far
+- [ ] I want to create the database structure on how all the datas will be saved on firebase.
+- [ ] Update the firestore rules that allow me to perform HTTP requests.
+- [ ] Start thinking about the game logic
+
+
 ### 12.09.2025
 - [ ] I want to create a web game that simulates online pokemon battles
 - [ ] I will start with the basic design
