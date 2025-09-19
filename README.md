@@ -7,6 +7,8 @@
 - [ ] Update the firestore rules that allow me to perform HTTP requests.
 - [ ] Start thinking about the game logic
 
+Today I focused primarly on the database structure and how I will build the game rooms on firebase Firestore. As of right now I can create a private room in the game which a second player with a different account can join by over a special ID/code that is saves in firestore. Next I want to focus on the actual game
+
 
 ### 12.09.2025
 - [ ] I want to create a web game that simulates online pokemon battles
