@@ -4,8 +4,8 @@
 
 ### 17.10.2025
 - [ ] I want to work on the OBA for M320
-- [ ] Write down in the program all the pokemon I want to use their moves and evolutions etc.
-- [ ] I want to start working on the actual game with the logic of damage and such.
+- [ ] In the summer holidays I made a music generator. I want to perfect it. I want to experiment with AI and see what it can come up with.
+- [ ] compare multipul versions with oneanother
 
 
 
