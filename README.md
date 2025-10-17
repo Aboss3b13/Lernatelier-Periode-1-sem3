@@ -1,6 +1,15 @@
 # Lernatelier-Periode-1-sem3
 
 
+
+### 17.10.2025
+- [ ] I want to work on the OBA for M320
+- [ ] Write down in the program all the pokemon I want to use their moves and evolutions etc.
+- [ ] I want to start working on the actual game with the logic of damage and such.
+
+
+
+
 ### 19.09.2025
 - [ ] I want to continue on the said game. I will start by looking at what I have scomplished so far
 - [ ] I want to create the database structure on how all the datas will be saved on firebase.
