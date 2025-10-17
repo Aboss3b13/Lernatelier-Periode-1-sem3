@@ -7,6 +7,8 @@
 - [ ] In the summer holidays I made a music generator. I want to perfect it. I want to experiment with AI and see what it can come up with.
 - [ ] compare multipul versions with oneanother
 
+Today I worked on the OBA for M320. Then I started working on a music generator with an algorithm that is better than the one that I used before. I will be working on that next time along with my Portfolio Website.
+
 
 
 
