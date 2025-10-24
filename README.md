@@ -1,6 +1,11 @@
 # Lernatelier-Periode-1-sem3
 
 
+### 24.10.2025
+- [ ] I want to continue working on my music generator
+- [ ] I want to come up with an algorithm that creates good sounding music
+- [ ] Implement that algorithm
+
 
 ### 17.10.2025
 - [ ] I want to work on the OBA for M320
