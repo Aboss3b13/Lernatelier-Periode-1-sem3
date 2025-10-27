@@ -6,6 +6,8 @@
 - [ ] I want to come up with an algorithm that creates good sounding music
 - [ ] Implement that algorithm
 
+Today I tried to find an algorithm that generates good soundig music. I tried using AI to create the algorithm, but I didnt get any succsesful results.
+
 
 ### 17.10.2025
 - [ ] I want to work on the OBA for M320
