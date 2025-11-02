@@ -5,6 +5,8 @@
 - [ ] My credits with google cloud ran out so I dont have accses to their voice anymore. I want to find a new voice.
 - [ ] Fix some formatting, add animations etc.
 
+I worked on my presentation generator. I used Microsofts free voices that do not require an API key instead of using google's. I fixed some formatting issues.
+
       
 
 ### 24.10.2025
