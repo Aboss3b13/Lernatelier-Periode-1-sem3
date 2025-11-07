@@ -1,5 +1,11 @@
 # Lernatelier-Periode-1-sem3
 
+
+### 31.10.2025
+- [ ] I want to continue working on my music generator
+- [ ] find a consistant good algorithm that generates decent random music
+- [ ] implement it
+
 ### 31.10.2025
 - [ ] I want to work on my Video/Presentation generator.
 - [ ] My credits with google cloud ran out so I dont have accses to their voice anymore. I want to find a new voice.
