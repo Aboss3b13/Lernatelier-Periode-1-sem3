@@ -6,6 +6,8 @@
 - [ ] find a consistant good algorithm that generates decent random music
 - [ ] implement it
 
+I came up with an algorithm that makes good sounding music per default. The AI that generates the music still won't produce good sounding music though. Although this is probably because of the current AI model cannot comprehend what good music is supposed to sound like.
+
 ### 31.10.2025
 - [ ] I want to work on my Video/Presentation generator.
 - [ ] My credits with google cloud ran out so I dont have accses to their voice anymore. I want to find a new voice.
