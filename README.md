@@ -6,6 +6,8 @@
 - [ ] Find a platworm that can render 3d which is easy to use and program with. I am thinking about using a wpf application.
 - [ ] Come up with logic that simulates a rubik's Cube
 
+I worked on my  project which I started working on in april. A 3d rubiks cube simulator. I had an algorith which would work in 2d. So today I used the same algorithm to render it in 3d using a wpf application. Next I want to work on an algorithm to solve the cube
+
 ### 07.11.2025
 - [ ] I want to continue working on my music generator
 - [ ] find a consistant good algorithm that generates decent random music
