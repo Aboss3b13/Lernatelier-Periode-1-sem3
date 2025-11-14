@@ -1,7 +1,12 @@
 # Lernatelier-Periode-1-sem3
 
 
-### 31.10.2025
+### 14.11.2025
+- [ ] I want to create an app that simulates a rubik's cube
+- [ ] Find a platworm that can render 3d which is easy to use and program with. I am thinking about using a wpf application.
+- [ ] Come up with logic that simulates a rubik's Cube
+
+### 07.11.2025
 - [ ] I want to continue working on my music generator
 - [ ] find a consistant good algorithm that generates decent random music
 - [ ] implement it
