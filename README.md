@@ -1,5 +1,13 @@
 # Lernatelier-Periode-1-sem3
 
+### 21.11.2025
+
+- [ ] Gemini 3.0 finally released. I want to test it.
+- [ ] Download and learn how to use antigravity.
+- [ ] Use antigravity to work on my music generator
+- [ ] Work on the design and animations for my rubik's cube simulator
+
+Today I tested out google's latest language model gemini 3.0. They also released an IDE antigravity that is very AI centric. So I learned how to use it and tested it out. After that I worked on my Rubik's Cube simulator. I added animations and updated the design of the cube
 
 ### 14.11.2025
 - [ ] I want to create an app that simulates a rubik's cube
