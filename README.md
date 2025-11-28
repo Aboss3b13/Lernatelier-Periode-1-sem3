@@ -2,6 +2,13 @@
 
 ### 21.11.2025
 
+- [ ] Work on the LB 346
+- [ ] Continue testing gemini 3.0
+- [ ] Build a music generator website
+
+
+### 21.11.2025
+
 - [ ] Gemini 3.0 finally released. I want to test it.
 - [ ] Download and learn how to use antigravity.
 - [ ] Use antigravity to work on my music generator
