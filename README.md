@@ -1,6 +1,6 @@
 # Lernatelier-Periode-1-sem3
 
-### 21.11.2025
+### 28.11.2025
 
 - [ ] Work on the LB 346
 - [ ] Continue testing gemini 3.0
