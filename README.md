@@ -6,6 +6,8 @@
 - [ ] Continue testing gemini 3.0
 - [ ] Build a music generator website
 
+Tpday I worked on the LB for M346 and I tested gemini 3.0
+
 
 ### 21.11.2025
 
