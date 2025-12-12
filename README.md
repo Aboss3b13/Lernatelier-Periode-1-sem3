@@ -7,6 +7,8 @@
 - [ ] Come up with the logic to implement the beginners method to solve the cube on the WPF
 - [ ] update myportfolio website
 
+I updated the design of the rubik's Cube and cleaned up it's animations. I worked on my Portfolio Website: https://abbasraza.netlify.app/
+
 ### 28.11.2025
 
 - [ ] Work on the LB 346
