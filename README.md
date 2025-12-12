@@ -1,5 +1,12 @@
 # Lernatelier-Periode-1-sem3
 
+
+### 12.12.2025
+
+- [ ] update the design of the WPF Rubik's Cube
+- [ ] Come up with the logic to implement the beginners method to solve the cube on the WPF
+- [ ] update myportfolio website
+
 ### 28.11.2025
 
 - [ ] Work on the LB 346
