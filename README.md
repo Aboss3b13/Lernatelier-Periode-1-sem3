@@ -6,6 +6,8 @@
 - [ ] Because of Puter.js I have accses to a lot more advanced AI models. I want to test them.
 - [ ] Update my Portfolio website.
 
+A couple of weeks ago google decided to abolish their free tier of the gemini API. This is crucial for me since at least half of my projects have AI integrated into them. So I looked for alternitive options. I though I could mabey rent a cloud server and run an ollama model on it, but if anything that would just be more expensive. I evetually found Puter.js. It basically acts like the middle man between the user and the provider. So I can use the AI for free through Puter.js. I decided to implement that into some of mz already existing code to get around the gemini pricing problem.
+
 
 ### 12.12.2025
 
