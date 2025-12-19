@@ -1,5 +1,11 @@
 # Lernatelier-Periode-1-sem3
 
+### 19.12.2025
+
+- [ ] Gemini shut down their their free API service. I found an option to replace it: Puter.js. I want to implement Puter.js
+- [ ] Because of Puter.js I have accses to a lot more advanced AI models. I want to test them.
+- [ ] Update my Portfolio website.
+
 
 ### 12.12.2025
 
