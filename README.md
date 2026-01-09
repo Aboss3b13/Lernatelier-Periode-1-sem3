@@ -4,6 +4,8 @@
 - [ ] Work on the LB for M450
 - [ ] Catch up on the class I missed on thursday: M295
 
+Today I woked on my LB for M450. I created an OOP program, that simulates capitalism vs communism that should be suitable for unit testing. 
+
 ### 19.12.2025
 
 - [ ] Gemini shut down their their free API service. I found an option to replace it: Puter.js. I want to implement Puter.js
