@@ -1,4 +1,8 @@
 # Lernatelier-Periode-1-sem3
+### 09.01.2026
+- [ ] Update my Portfolio website.
+- [ ] Work on the LB for M450
+- [ ] Catch up on the class I missed on thursday: M295
 
 ### 19.12.2025
 
