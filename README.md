@@ -1,4 +1,11 @@
 # Lernatelier-Periode-1-sem3
+
+### 09.01.2026
+- [ ] Update my Portfolio website.
+- [ ] Find a way to use flagship AI for my python projects now that gemini is no longer free
+- [ ] replace the gemini API key in my current projects and itegrate puter.js
+
+
 ### 09.01.2026
 - [ ] Update my Portfolio website.
 - [ ] Work on the LB for M450
