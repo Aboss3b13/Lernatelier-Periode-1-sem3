@@ -1,5 +1,11 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 16.01.2026: Herr Raza zeigt mir seine Portfolio-Website, an der er nun arbeitet. Sie gleicht einem OS, es öffnen sich Fenster, wenn man Menüpunkte wählt. Hübsche Idee! Wir sichten ein neu generiertes Musikstück, das er mit KI auf einer eigenen Seite erstellt hat (er wird mir etwa drei Stücke, eigene und generierte, schicken für ein IMS-Einstiegsvideo). Wir besprechen, wie er Projekte auf seiner Portfolio-Website geeignet präsentieren könnte. Ideen:
+  * Ziel/Motivation für Projekt
+  * Bilder einbauen vom Rubik's Cube oder Notenblättern. Es sind optisch sehr ansprechende Projekte.
+  * Video- oder Audio-Dateien zum Anhören oder Download anbieten.
+  * Technologien
+
 * 14.11.2025: Hr. Raza: Hat im Frühlingssemester eine WPF App mit Rubiks Cube gemacht. Nun erweitert um Buttons zur Absicht und zum Drehen. Vibe coded. Er möchte ein Programm schreiben, um den Würfel zu lösen.
 
 * 31.10.2025:  Hr. Raza zeigt mir ausfühlicher und auch mit einer Demo seine Musik erzeugenden Apps.
