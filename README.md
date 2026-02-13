@@ -3,7 +3,9 @@
 ### 13.02.2026
 - [ ] finish my work on the LB for M347
 - [ ] Work on the LB for 295
-- [ ] Work on the portfolio website 
+- [ ] create a valentine themed website
+
+Today I worked and fiished the LB for M347. I then created a valentine themed website for my girlfriend.
 
 
 
