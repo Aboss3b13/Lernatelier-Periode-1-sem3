@@ -1,5 +1,12 @@
 # Lernatelier-Periode-1-sem3
 
+### 13.02.2026
+- [ ] finish my work on the LB for M347
+- [ ] Work on the LB for 295
+- [ ] Work on the portfolio website 
+
+
+
 ### 16.01.2026
 - [ ] Update my Portfolio website.
 - [ ] Find a way to use flagship AI for my python projects now that gemini is no longer free
