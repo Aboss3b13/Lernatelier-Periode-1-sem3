@@ -1,5 +1,11 @@
 # Lernatelier-Periode-1-sem3
 
+### 20.02.2026
+- [ ] Work on the LB 295
+- [ ] Create the postman tests.
+- [ ] Create the documentation and refine mistakes
+
+
 ### 13.02.2026
 - [ ] finish my work on the LB for M347
 - [ ] Work on the LB for 295
