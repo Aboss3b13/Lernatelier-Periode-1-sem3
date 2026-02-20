@@ -5,6 +5,8 @@
 - [ ] Create the postman tests.
 - [ ] Create the documentation and refine mistakes
 
+Today I worked on the LB for M295. 
+
 
 ### 13.02.2026
 - [ ] finish my work on the LB for M347
