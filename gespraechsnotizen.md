@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 27.02.2026: Für seine Portfilo-Website möchte Hr. Raza die Farben überdenken. Er zeigt mir das Verhalten der Fenster, die Vergrösserungsmöglichkeit und das KI-Chat-Fenster. Die Projekte möchte er noch genauer vorstellen und dann mittels Links auf gehostete WebApps verweisen oder seine GitHub Repositories. Eine tolle Site, die als OS daherkommt! Danach besprechen wir das Qualifikationsverfahren: Berechnungsmethode und aktuelle Noten.
+
 * 16.01.2026: Herr Raza zeigt mir seine Portfolio-Website, an der er nun arbeitet. Sie gleicht einem OS, es öffnen sich Fenster, wenn man Menüpunkte wählt. Hübsche Idee! Wir sichten ein neu generiertes Musikstück, das er mit KI auf einer eigenen Seite erstellt hat (er wird mir etwa drei Stücke, eigene und generierte, schicken für ein IMS-Einstiegsvideo). Wir besprechen, wie er Projekte auf seiner Portfolio-Website geeignet präsentieren könnte. Ideen:
   * Ziel/Motivation für Projekt
   * Bilder einbauen vom Rubik's Cube oder Notenblättern. Es sind optisch sehr ansprechende Projekte.
