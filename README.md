@@ -1,4 +1,9 @@
 # Lernatelier-Periode-1-sem3
+### 27.02.2026
+- [ ] I want to create my own music generater using a machone learning model locally, instead of being dependant on external API. First I will do research.
+- [ ] Work on my portfolio. I  want to change it to something more understandable and professional but with a twist
+
+
 
 ### 20.02.2026
 - [ ] Work on the LB 295
