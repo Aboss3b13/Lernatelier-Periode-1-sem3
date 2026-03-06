@@ -5,6 +5,8 @@
 - [ ] Work on my portfolio.
 - [ ] Find something cool to do with machine learning
 
+Today I worked on my pokemon battle website. I also worked on my Portfolio website.
+
 ### 27.02.2026
 - [ ] I want to work on my Pokemon battle website
 - [ ] Work on my portfolio. I  want to change it to something more understandable and professional but with a twist
