@@ -1,8 +1,16 @@
 # Lernatelier-Periode-1-sem3
+
+### 06.03.2026
+- [ ] I want to work on my Pokemon battle website
+- [ ] Work on my portfolio.
+- [ ] Find something cool to do with machine learning
+
 ### 27.02.2026
 - [ ] I want to work on my Pokemon battle website
 - [ ] Work on my portfolio. I  want to change it to something more understandable and professional but with a twist
 - [ ] Go through the Baden Hackt challenges and find a suitable challenge that I can do
+
+Today I worked on my Portfolio website  and made the Pokemon website smoother
 
 
 
