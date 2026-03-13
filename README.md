@@ -1,5 +1,10 @@
 # Lernatelier-Periode-1-sem3
 
+### 13.03.2026
+- [ ] Work on the Porfolio website
+- [ ] Start coming up with ideas to implement Baden Hackt.
+- [ ] Work on my pokemon battle website
+
 ### 06.03.2026
 - [ ] I want to work on my Pokemon battle website
 - [ ] Work on my portfolio.
