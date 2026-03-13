@@ -5,6 +5,8 @@
 - [ ] Start coming up with ideas to implement Baden Hackt.
 - [ ] Work on my pokemon battle website
 
+Today I worked on my Portfolio. The idea is that I dont want to constanlty reupload my portfolio to netlify and to just do it over the website using an admin account. So I changed it so that all infomrion on the website like text and images are stored to firebase. Right now I am having trouble with uploading the images to it. But otherwise it works.
+
 ### 06.03.2026
 - [ ] I want to work on my Pokemon battle website
 - [ ] Work on my portfolio.
