@@ -3,6 +3,8 @@
 - [ ] make a new project with Yucan
 - [ ] a new game on roblox
 
+We came up with ideas for our project. I learned about roblox studio a bit.
+
 
 ### 13.03.2026
 - [ ] Work on the Porfolio website
