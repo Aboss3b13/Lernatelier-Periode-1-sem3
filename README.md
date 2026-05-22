@@ -1,4 +1,8 @@
 # Lernatelier-Periode-1-sem3
+### 22.05.2026
+- [ ] make a new project with Yucan
+- [ ] a new game on roblox
+
 
 ### 13.03.2026
 - [ ] Work on the Porfolio website
