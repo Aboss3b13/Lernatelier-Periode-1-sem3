@@ -1,4 +1,11 @@
 # Lernatelier-Periode-1-sem3 
+
+### 22.05.2026
+- [ ] finish the Heimatschutzprojekt demo
+- [ ] all the data should be saved locally instead of constantly pulling from the web.
+- [ ] make some UI refinements.
+- [ ] if there is still time work on my roblox project with Yucan
+
 ### 22.05.2026
 - [ ] make a new project with Yucan
 - [ ] a new game on roblox
