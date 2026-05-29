@@ -6,6 +6,8 @@
 - [ ] make some UI refinements.
 - [ ] if there is still time work on my roblox project with Yucan
 
+Today Yucan an I worked on the Heimatschutzprojekt.
+
 ### 22.05.2026
 - [ ] make a new project with Yucan
 - [ ] a new game on roblox
