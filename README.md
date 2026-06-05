@@ -3,7 +3,7 @@
 ### 05.06.2026
 - [ ] Continue working on the Heimatschutzprojekt. refine the UI
 - [ ] work on the roblox project with Yucan
-- [ ] continue working on LB for M306.
+- [ ] continue working on LB for M306. 
 
 ### 22.05.2026
 - [ ] finish the Heimatschutzprojekt demo
