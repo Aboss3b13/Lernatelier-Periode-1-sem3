@@ -13,7 +13,7 @@ I made the design for the Himattschutoroject better today
 - [ ] make some UI refinements.
 - [ ] if there is still time work on my roblox project with Yucan
 
-Today Yucan an I worked on the Heimatschutzprojekt.
+Today Yucan an I worked on the Heimatschutzprojekt. 
 
 ### 22.05.2026
 - [ ] make a new project with Yucan
