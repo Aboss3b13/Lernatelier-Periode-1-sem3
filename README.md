@@ -1,7 +1,7 @@
 # Lernatelier-Periode-1-sem3 
 
 
-### 12.06.2026
+### 12.06.2026 
 - [ ] I bought codex. I want to test it
 - [ ] work on my Porfolio website
 - [ ] refine the Heimatschutzprojekt
