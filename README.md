@@ -4,7 +4,7 @@
 ### 12.06.2026 
 - [ ] I bought codex. I want to test it
 - [ ] work on my Porfolio website
-- [ ] refine the Heimatschutzprojekt
+- [ ] refine the Heimatschutzprojekt 
 
 Today I bought a codex subscription. so i decided to test it by updating my portfolio site loo look more comic booky. I also worked on the design for the demo for the Heimatschutzprojekt.
 
