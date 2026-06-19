@@ -1,5 +1,11 @@
 # Lernatelier-Periode-1-sem3 
 
+### 19.06.2026 
+- [ ] take down notes in the interview for the Heimatschutzprojekt
+- [ ] implement the new features.
+- [ ] test the project.
+
+Today I implemented the ISOS into the the project and tested it. I also refined the project to match the conditions given.
 
 ### 12.06.2026 
 - [ ] I bought codex. I want to test it
