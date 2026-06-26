@@ -4,7 +4,8 @@
 - [ ] manual and screenshots for Heimatschutzprojekt
 - [ ] Find Praktikumstellen
 - [ ] create Bewerbungschreiben for different companies
-      
+
+Today I worked on the Heimatschutyprojekt and founf some Praktikmstellewn I could apply to.      
 
 
 ### 19.06.2026 
