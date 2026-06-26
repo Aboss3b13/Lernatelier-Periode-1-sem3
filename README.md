@@ -1,6 +1,13 @@
 # Lernatelier-Periode-1-sem3 
 
 ### 19.06.2026 
+- [ ] manual and screenshots for Heimatschutzprojekt
+- [ ] Find Praktikumstellen
+- [ ] create Bewerbungschreiben for different companies
+      
+
+
+### 19.06.2026 
 - [ ] take down notes in the interview for the Heimatschutzprojekt
 - [ ] implement the new features.
 - [ ] test the project.
