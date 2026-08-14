@@ -7,6 +7,8 @@
 - [ ] Add a password feature to it so that people are locked out.
 - [ ] host it on my linux server.
 
+Today I worked on the Heimatschutzprojekt and worked on my Porfolio website. I am now ready to send out Bewerbungen.
+
 ### 26.06.2026 
 - [ ] manual and screenshots for Heimatschutzprojekt
 - [ ] Find Praktikumstellen
