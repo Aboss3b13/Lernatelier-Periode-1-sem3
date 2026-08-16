@@ -2,7 +2,7 @@
 
 ### 26.06.2026 
 - [ ] Find Praktikumstellen
-- [ ] create Bewerbungschreiben for different companies 
+- [ ] create Bewerbungschreiben for different companies
 - [ ] write an email for the Heimatschutzprojekt.
 - [ ] Add a password feature to it so that people are locked out.
 - [ ] host it on my linux server.
