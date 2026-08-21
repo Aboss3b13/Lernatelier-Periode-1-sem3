@@ -6,6 +6,8 @@
 - [ ] leetcode
 - [ ] Add a Gebiet Filter on the heimatschutzproject.
 
+Today I worked on my bewerbungen and the Heimatschutzproject. 
+
 ### 14.06.2026 
 - [ ] Find Praktikumstellen
 - [ ] create Bewerbungschreiben for different companies
