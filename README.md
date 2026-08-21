@@ -1,6 +1,12 @@
 # Lernatelier-Periode-1-sem3 
 
-### 26.06.2026 
+### 21.08.2026 
+- [ ] Find Praktikumstellen
+- [ ] create Bewerbungschreiben for different companies
+- [ ] leetcode
+- [ ] Add a Gebiet Filter on the heimatschutzproject.
+
+### 14.06.2026 
 - [ ] Find Praktikumstellen
 - [ ] create Bewerbungschreiben for different companies
 - [ ] write an email for the Heimatschutzprojekt.
