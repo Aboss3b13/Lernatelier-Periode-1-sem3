@@ -1,5 +1,11 @@
 # Lernatelier-Periode-1-sem3 
 
+### 28.08.2026 
+- [ ] Find Praktikumstellen
+- [ ] create Bewerbungschreiben for different companies
+- [ ] leetcode
+
+      
 ### 21.08.2026 
 - [ ] Find Praktikumstellen
 - [ ] create Bewerbungschreiben for different companies
