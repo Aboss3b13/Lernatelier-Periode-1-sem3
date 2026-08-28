@@ -5,6 +5,8 @@
 - [ ] create Bewerbungschreiben for different companies
 - [ ] leetcode
 
+Todaz I worked on several leetcode problems.
+
       
 ### 21.08.2026 
 - [ ] Find Praktikumstellen
