@@ -1,5 +1,12 @@
 # Lernatelier-Periode-1-sem3 
 
+
+### 28.08.2026 
+- [ ] Continue working on the Heimatschutzprojekt
+- [ ] fix my n8n portfolio updater.
+- [ ] find Praktikumstellen.
+
+Todaz I worked on several leetcode problems.
 ### 28.08.2026 
 - [ ] Find Praktikumstellen
 - [ ] create Bewerbungschreiben for different companies
