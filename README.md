@@ -1,12 +1,12 @@
 # Lernatelier-Periode-1-sem3 
 
 
-### 28.08.2026  
+### 04.09.2026  
 - [ ] Continue working on the Heimatschutzprojekt
 - [ ] fix my n8n portfolio updater.
 - [ ] find Praktikumstellen.
 
-Todaz I worked on several leetcode problems.
+Today I updated my Github updater since there was a problem with the python server.
 ### 28.08.2026 
 - [ ] Find Praktikumstellen
 - [ ] create Bewerbungschreiben for different companies
