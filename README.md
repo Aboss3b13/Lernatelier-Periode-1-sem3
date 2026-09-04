@@ -1,7 +1,7 @@
 # Lernatelier-Periode-1-sem3 
 
 
-### 28.08.2026 
+### 28.08.2026  
 - [ ] Continue working on the Heimatschutzprojekt
 - [ ] fix my n8n portfolio updater.
 - [ ] find Praktikumstellen.
