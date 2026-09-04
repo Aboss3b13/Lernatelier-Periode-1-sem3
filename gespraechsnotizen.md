@@ -1,5 +1,9 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+* 04.09.2026:
+  * Gemeinsam mit Herrn You besprechen wir den Stand des Projektes Heimatschutz. Wir schauen an, welche Baugesuche man beim Starten der App in der Liste findet und wann die Liste aktualisiert werden soll (nächtlicher Batchprozess oder bei Start?). In der App nutzen wir die Filterkriterien und diskutieren die Stati und die möglichen Benutzereingaben wir "ignorieren" oder "Einsprache prüfen". Ausserdem besprechen wir das Vorgehen bei der Präsentation am 16.10.
+  * Dann besprechen wir die Bewerbungen, die Herr Raza bereits eingereicht hat sowie das Motivationsschreiben. Und, dass eine Liste sinnvoll wäre, um einen Überblick zu behalten, welche Bewerbungen offen sind. Gespräche hat er noch keine geführt.
+
 * 27.02.2026: Für seine Portfilo-Website möchte Hr. Raza die Farben überdenken. Er zeigt mir das Verhalten der Fenster, die Vergrösserungsmöglichkeit und das KI-Chat-Fenster. Die Projekte möchte er noch genauer vorstellen und dann mittels Links auf gehostete WebApps verweisen oder seine GitHub Repositories. Eine tolle Site, die als OS daherkommt! Danach besprechen wir das Qualifikationsverfahren: Berechnungsmethode und aktuelle Noten.
 
 * 16.01.2026: Herr Raza zeigt mir seine Portfolio-Website, an der er nun arbeitet. Sie gleicht einem OS, es öffnen sich Fenster, wenn man Menüpunkte wählt. Hübsche Idee! Wir sichten ein neu generiertes Musikstück, das er mit KI auf einer eigenen Seite erstellt hat (er wird mir etwa drei Stücke, eigene und generierte, schicken für ein IMS-Einstiegsvideo). Wir besprechen, wie er Projekte auf seiner Portfolio-Website geeignet präsentieren könnte. Ideen:
