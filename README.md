@@ -1,5 +1,9 @@
 # Lernatelier-Periode-1-sem3 
 
+### 16.10.2026  
+- [ ] work on the Heimatschutzproject
+- [ ] prepare the presentation
+- [ ] find Praktikumstellen
 
 ### 04.09.2026  
 - [ ] Continue working on the Heimatschutzprojekt
