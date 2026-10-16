@@ -1,5 +1,7 @@
 # Lernatelier-Gespräche mit Frau Rieder
 
+16.10.2026: Die Bewerbung für ein Praktikum steht im Vordergrund. Herr Raza hatte ein Online-Interview. Auf die 13 Bewerbungen hat er bisher Absagen bekommen. Er wird sich selbstständig Stellen im Internet suchen. Bei Fragen meldet er sich. Die Portfolio-Seite ist wieder überarbeitet.
+
 * 04.09.2026:
   * Gemeinsam mit Herrn You besprechen wir den Stand des Projektes Heimatschutz. Wir schauen an, welche Baugesuche man beim Starten der App in der Liste findet und wann die Liste aktualisiert werden soll (nächtlicher Batchprozess oder bei Start?). In der App nutzen wir die Filterkriterien und diskutieren die Stati und die möglichen Benutzereingaben wir "ignorieren" oder "Einsprache prüfen". Ausserdem besprechen wir das Vorgehen bei der Präsentation am 16.10.
   * Dann besprechen wir die Bewerbungen, die Herr Raza bereits eingereicht hat sowie das Motivationsschreiben. Und, dass eine Liste sinnvoll wäre, um einen Überblick zu behalten, welche Bewerbungen offen sind. Gespräche hat er noch keine geführt.
