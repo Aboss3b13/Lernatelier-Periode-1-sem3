@@ -5,6 +5,8 @@
 - [ ] prepare the presentation
 - [ ] find Praktikumstellen
 
+Today I worked on the Heimatschutzproject.
+
 ### 04.09.2026  
 - [ ] Continue working on the Heimatschutzprojekt
 - [ ] fix my n8n portfolio updater.
