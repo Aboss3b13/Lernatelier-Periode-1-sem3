@@ -5,6 +5,8 @@
 - [ ] the Heimatschutzwebsite went down. I need to fix it
 - [ ] Do LB 324
 
+I worked on the Heimatschutzproject and completed the LB for M324
+
 ### 16.10.2026  
 - [ ] work on the Heimatschutzproject
 - [ ] prepare the presentation
