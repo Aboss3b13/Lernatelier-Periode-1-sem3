@@ -1,5 +1,10 @@
 # Lernatelier-Periode-1-sem3 
 
+### 23.10.2026  
+- [ ] work on the Heimatschutzproject
+- [ ] the Heimatschutzwebsite went down. I need to fix it
+- [ ] Do LB 324
+
 ### 16.10.2026  
 - [ ] work on the Heimatschutzproject
 - [ ] prepare the presentation
