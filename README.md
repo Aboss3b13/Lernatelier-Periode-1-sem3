@@ -1,6 +1,6 @@
 # Lernatelier-Periode-1-sem3 
 
-### 23.10.2026  
+### 05.11.2026  
 - [ ] Find Praktikumstellen
 - [ ] work on Modul 321
 - [ ] create an app which can scan and categorize documents. (potential buisness idea)
