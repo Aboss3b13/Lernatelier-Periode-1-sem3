@@ -6,6 +6,8 @@
 - [ ] create an app which can scan and categorize documents. (potential buisness idea)
 - [ ] find a project to do with Yucan
 
+Today I worked on an app which categorizes documents. The idea is that all you do is scan a document and the app manageg the rest of the details for you. I added an option where you can connect all the documents to google drive
+
 ### 23.10.2026  
 - [ ] work on the Heimatschutzproject
 - [ ] the Heimatschutzwebsite went down. I need to fix it
@@ -31,7 +33,7 @@ Today I updated my Github updater since there was a problem with the python serv
 - [ ] create Bewerbungschreiben for different companies
 - [ ] leetcode
 
-Todaz I worked on several leetcode problems.
+Today I worked on several leetcode problems.
 
       
 ### 21.08.2026 
