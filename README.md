@@ -1,6 +1,11 @@
 # Lernatelier-Periode-1-sem3 
 
 ### 23.10.2026  
+- [ ] Find Praktikumstellen
+- [ ] work on Modul 321
+- [ ] create an app which can scan and categorize documents. (potential buisness idea)
+
+### 23.10.2026  
 - [ ] work on the Heimatschutzproject
 - [ ] the Heimatschutzwebsite went down. I need to fix it
 - [ ] Do LB 324
