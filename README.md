@@ -1,5 +1,11 @@
 # Lernatelier-Periode-1-sem3 
 
+### 13.11.2026  
+- [ ] Find Praktikumstellen
+- [ ] work on Modul 321
+- [ ] turn my document scanning app into a MAUI app
+- [ ] find a project to do with Yucan
+
 ### 05.11.2026  
 - [ ] Find Praktikumstellen
 - [ ] work on Modul 321
