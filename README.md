@@ -6,6 +6,8 @@
 - [ ] turn my document scanning app into a MAUI app
 - [ ] find a project to do with Yucan
 
+Todaz I continued working on my document scanning app and turned it into a MAUI app. I also added biometric security to the app. I also wokred on Modul 321.
+
 ### 05.11.2026  
 - [ ] Find Praktikumstellen
 - [ ] work on Modul 321
