@@ -6,6 +6,8 @@
 - [ ] add more storage options other than google drive for DocID (Document scanning app)
 - [ ] automize the storage process in form of connecting so that anyone can use it as long as they know how to click a button. (usability)
 
+Today I continued working on my DocID project.
+
 ### 13.11.2026  
 - [ ] Find Praktikumstellen
 - [ ] work on Modul 321
